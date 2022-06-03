@@ -1,4 +1,4 @@
-module projects.local/discord
+module github.com/golangaddict/discord
 
 go 1.18
 
